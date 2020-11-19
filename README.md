@@ -7,11 +7,12 @@ This is a program to produce a monthly report for the group reading. The report 
 * Matplotlib (3.3.3)
 
 ## Graphical User Interface (GUI)
+The program has a Graphical User Interface (GUI) which make the program be easier and if you want to use the compiler for inputs and outputs, you can click on the red [X] and use the compiler.
 <img src="screenshots/gui.png" width = "40%" />
 <img src="screenshots/gui_show_result.png" width = "40%" />
 
 ## input file
-* The input file format must be .txt and the name of the file  following this format (inputFile.txt) 
+* •	The input file format must be .txt and the Name of the file must be: inputFile (inputFile.txt)
 
 ## How to use:
 * Show Result: To Show the statistics about what the group has read during the month 
