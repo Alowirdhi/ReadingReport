@@ -14,6 +14,6 @@ This is a program to produce a monthly report for the group reading. The report 
 * The input file format must be .txt and the name of the file  following this format (inputFile.txt) 
 
 ## How to use:
-* Show Result:	    To Show the statistics about what the group has read during the month 
+* Show Result: /t To Show the statistics about what the group has read during the month 
 * Show Graph: 	    To show graphs about the ranking statistics.
 * Exit:             To Close the program.
