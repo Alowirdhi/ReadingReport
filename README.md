@@ -1,4 +1,4 @@
-# Monthly Report for Group Reading:
+# Monthly Report for Group Reading
 This is a program to produce a monthly report for the group reading. The report includes some statistics about what the group has read during the month.
 
 ## Requirements
