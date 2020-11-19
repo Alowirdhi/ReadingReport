@@ -12,7 +12,7 @@ The program has a Graphical User Interface (GUI) which make the program be easie
 <img src="Screenshots/gui.png" width = "100%" />
 <img src="Screenshots/gui_show_result.png" width = "100%" />
 
-## input file
+## Input file
 * The input file format must be .txt and the Name of the file must be: inputFile (inputFile.txt)
 
 ## How to use:
